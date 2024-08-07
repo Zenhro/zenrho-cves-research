@@ -1,6 +1,8 @@
-# Zenrho Java Vulnerability Repository
+<p align="center">
+  <img src="assets/zenrho.png" alt="Zenrho Logo" width="200" height="auto" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+</p>
 
-![Zenrho Logo](assets/zenrho.png)
+<h1 align="center">Zenrho Java Vulnerability Repository</h1>
 
 ## Overview
 
