@@ -12,12 +12,13 @@ This repository is a comprehensive collection of Java-related vulnerabilities an
 
 Each vulnerability is organized into its own directory, named after its CVE identifier (when available). The structure is as follows:
 
+```
 ├── CVE-YYYY-XXXX/
 │   ├── README.md
 │   ├── exploit.py
 │   ├── vulnerable/
 │       ├── ...
-
+```
 ## Vulnerabilities
 
 - [CVE-2024-4956](CVE-2024-4956/README.md): Nexus Repository Manager Directory Traversal Vulnerability
